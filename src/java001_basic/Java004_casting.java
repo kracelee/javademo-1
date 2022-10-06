@@ -1,4 +1,4 @@
-package java1005_basic;
+package java001_basic;
 
 /*
  * Ctrl + / : 한 라인 주석 처리
