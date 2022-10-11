@@ -8,7 +8,7 @@ public class Java012_operators {
 		 *	false || false == false
 		 *	!true == false
 		 */
-		
+		 
 		int x = 3;
 		int y = 6;
 		int z = 3;

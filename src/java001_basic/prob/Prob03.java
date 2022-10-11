@@ -11,7 +11,12 @@ package java001_basic.prob;
 public class Prob03 {
 
 	public static void main(String[] args) {
-	  //여기에 구현하세요.		
+	  int app = 123;
+	  int bk = app/10;
+	  
+	  if bk
+	   
+	  System.out.printf("%d", bk);
      
       
 	}//end main()

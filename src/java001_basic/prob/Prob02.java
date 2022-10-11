@@ -10,7 +10,12 @@ public class Prob02 {
 
 	public static void main(String[] args) {
 		int num = -10;
-		//여기에 작성하시오.
+		if (num<0) {
+			num = -num;
+		}
+			 
+		
+		System.out.printf("%d", num);
 		
 	}
 

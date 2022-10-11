@@ -7,7 +7,7 @@ public class Java015_operators {
 		res = 3+2;
 		
 		System.out.println(res);
-		
+		 
 		x += 1;
 		System.out.printf("x=%d\n", x);
 		

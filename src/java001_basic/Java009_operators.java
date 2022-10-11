@@ -8,7 +8,7 @@ public class Java009_operators {
 		//전위연산자
 		++x;
 		System.out.println(x);
-		
+		 
 		--x;
 		System.out.println(x);
 		

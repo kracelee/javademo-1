@@ -6,7 +6,7 @@ public class Java013_operators {
 		int a = 3;
 		int b = 5;
 		int c = 7;
-		
+		 
 		//&& 연산자의 좌변이 false이면 우면은 수행하지 않는다.
 		boolean res = (++a > b) && (++b < c);
 		System.out.printf("a=%d, b=%d, c=%d, res=%b\n", a,b,c,res);

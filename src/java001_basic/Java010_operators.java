@@ -8,7 +8,7 @@ public class Java010_operators {
 
 		j = ++i;
 		System.out.printf("i=%d, j=%d\n", i, j);
-
+ 
 		i = 5;
 		j = 0;
 
